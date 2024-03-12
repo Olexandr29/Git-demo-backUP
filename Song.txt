@@ -15,3 +15,7 @@ It's cutting through so deep
 
 These changes will be added to the index (staged area)
 AND commited 
+and added one additional line to the existing commit
+
+let's make the same
+using git gui&
